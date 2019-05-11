@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  MIPSAssembler.cpp
+c:\users\eslamhussiensalam\source\repos\mipsassembler3\mipsassembler\mipsassembler.cpp(17): warning C4114: same type qualifier used more than once
+c:\users\eslamhussiensalam\source\repos\mipsassembler3\mipsassembler\mipsassembler.cpp(136): warning C4114: same type qualifier used more than once
+c:\users\eslamhussiensalam\source\repos\mipsassembler3\mipsassembler\mipsassembler.cpp(174): warning C4018: '<': signed/unsigned mismatch
+  MIPSAssembler.vcxproj -> C:\Users\EslamHussienSalam\source\repos\MIPSAssembler3\Debug\MIPSAssembler.exe

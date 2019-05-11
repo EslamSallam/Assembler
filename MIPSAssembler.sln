@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIPSAssembler", "MIPSAssembler\MIPSAssembler.vcxproj", "{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C2A06D5A-659E-440C-AD1D-C94AEE3BE4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Debug|x64.ActiveCfg = Debug|x64
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Debug|x64.Build.0 = Debug|x64
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Debug|x86.ActiveCfg = Debug|Win32
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Debug|x86.Build.0 = Debug|Win32
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Release|x64.ActiveCfg = Release|x64
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Release|x64.Build.0 = Release|x64
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Release|x86.ActiveCfg = Release|Win32
+		{812A49AA-21CC-4135-8CA9-8CD95D4AFB94}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9188B2-F396-4EF6-96A1-453BE2A5572F}
+	EndGlobalSection
+EndGlobal
